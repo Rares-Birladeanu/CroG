@@ -11,8 +11,8 @@ Project requirements can be found at this [Pastebin](https://pastebin.com/F5Gyqh
 Resources used to populate DB are taken from [this Github Page](https://github.com/terkelg/awesome-creative-coding)
 
 ## My Responsabilities
-- Worked on backend and implemented database usage
-- Made the resource module that allows for basic operations with resources(add new resource, delete, modify, etc)
+- Worked on the frontend for the login
+- Made the resource module for the search engine
 
 ## Features
 - Microservices are used through their own APIs and are stateless
